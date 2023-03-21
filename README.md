@@ -5,6 +5,4 @@ Walli is a simple wallpaper Android app that allows users to customize their And
 - Glide
 - RESTApi
 - mvvm architecture
-- [**Api Source:**](https://pixabay.com/)
-
-
+- Api source: [Pixabay](https://pixabay.com/)
